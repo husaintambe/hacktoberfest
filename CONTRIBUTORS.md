@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name:[Husain Tambe](https://github.com/husaintambe)
+- Place: Mumbai, Maharashtra, India 
+- Bio: Student
+- GitHub: [husaintambe](https://github.com/husaintambe)
